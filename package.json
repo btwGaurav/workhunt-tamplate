@@ -1,15 +1,8 @@
 {
-  "name": "workopia-theme",
-  "version": "1.0.0",
-  "description": "Theme for Workopia website",
-  "main": "index.js",
-  "scripts": {
-    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
-    "build": "tailwindcss -i ./input.css -o ./css/style.css"
-  },
-  "author": "Minju Begum",
-  "license": "MIT",
   "devDependencies": {
-    "tailwindcss": "^3.3.3"
-  }
+    "tailwindcss": "^3.4.14"
+  },
+  "name": "WorkHunt",
+  "Version": "0.0.1",
+  "Description": "A simple job listing website theme"
 }
